@@ -1,0 +1,487 @@
+.upper-sleep {
+  width: 80px;
+  height: 1px;
+  top: 5300px;
+  left: 407px;
+  position: absolute;
+  background-color: aquamarine;
+  font-weight: bold;
+}
+
+.sleep-text {
+  font-family: Fira Sans;
+  font-size: 80px;
+  line-height: 86px;
+  width: 463px;
+  height: 86px;
+  top: 5300px;
+  left: 233px;
+  position: absolute;
+  color: white;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.sleep-background {
+  opacity: 2%;
+  font-family: Fira Sans;
+  font-size: 190px;
+  line-height: 156px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  width: 467px;
+  height: 156px;
+  top: 5300px;
+  left: -49px;
+}
+
+.sleep-image img {
+  position: absolute;
+  width: 1102px;
+  height: 771px;
+  top: 5450px;
+  left: -6px;
+}
+
+.california-sleep {
+  position: absolute;
+  color: white;
+  width: 475px;
+  height: 86px;
+  top: 5470px;
+  left: 985px;
+  font-family: Fira Sans;
+  font-size: 40px;
+  line-height: 86px;
+  text-align: right;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.location-sleep {
+  color: rgba(255, 255, 255, 0.3);
+  width: 104px;
+  height: 32px;
+  top: 5462px;
+  left: 1310px;
+  font-family: Fira Sans;
+  font-size: 22px;
+  line-height: 32px;
+  letter-spacing: 7.333333969116211px;
+  text-align: right;
+  position: absolute;
+}
+
+.rectangle-sleep {
+  position: absolute;
+  margin: 0;
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 0;
+  border: none;
+  width: 80px;
+  height: 1px;
+  top: 5500px;
+  left: 1200px;
+}
+
+.svg-button-sleepyyy img {
+  position: absolute;
+  width: 68px;
+  height: 20px;
+  top: 5600px;
+  left: 1385px;
+  opacity: 0.4;
+  cursor: pointer;
+}
+
+.sleepOwn:has(.svg-button-sleepyyy img:active) {
+  animation: darkenLighten 5s ease-in-out alternate-reverse;
+  transition: 0.8s;
+  opacity: 0.8;
+}
+
+.gamak-sleep img {
+  position: absolute;
+  width: 565.82px;
+  height: 284.75px;
+  top: 5950px;
+  left: 1045px;
+}
+
+.kvitka-sleep img {
+  position: absolute;
+  width: 146.14px;
+  height: 112px;
+  top: 6190px;
+  left: 1420px;
+  transform: rotate(210deg);
+  z-index: 5;
+}
+
+.rectangle-sleepY {
+  width: 80px;
+  height: 1px;
+  top: 6150px;
+  left: 273px;
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.3);
+  z-index: 5;
+}
+
+.location-sleepY {
+  width: 116px;
+  height: 32px;
+  top: 6115px;
+  left: 133px;
+  color: rgba(255, 255, 255, 0.3);
+  position: absolute;
+  z-index: 5;
+  font-family: Fira Sans;
+  font-size: 22px;
+  line-height: 32px;
+  letter-spacing: 7.333333969116211px;
+  text-align: left;
+}
+
+.california-sleepY {
+  position: absolute;
+  color: white;
+  width: 475px;
+  height: 86px;
+  top: 6130px;
+  left: 133px;
+  font-family: Fira Sans;
+  font-size: 40px;
+  line-height: 86px;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.zoria-1 {
+  top: 6200px;
+  left: 350px;
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  transition: all 0.5s;
+}
+
+.zoria-2 {
+  top: 6200px;
+  left: 380px;
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  transition: all 0.5s;
+}
+
+.zoria-3 {
+  top: 6200px;
+  left: 410px;
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  transition: all 0.5s;
+}
+
+.zoria-4 {
+  top: 6200px;
+  left: 440px;
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  transition: all 0.5s;
+}
+
+.zoria-5 {
+  top: 6200px;
+  left: 470px;
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  transition: all 0.3s;
+}
+
+.exelent-sleep img:hover {
+  transform: translateX(20px);
+}
+
+.book-flight-pS {
+  font-weight: bold;
+  color: white;
+  width: 326px;
+  height: 80px;
+  top: 6620px;
+  left: 515px;
+  position: absolute;
+  font-family: Fira Sans;
+  font-size: 40px;
+  line-height: 36px;
+  text-align: right;
+  cursor: pointer;
+}
+
+.book-flight-sleep {
+  position: absolute;
+  background-color: aquamarine;
+  width: 201px;
+  height: 80px;
+  top: 6638px;
+  left: 681px;
+  cursor: pointer;
+}
+
+.sleep-svg {
+  width: 24.15px;
+  height: 20.15px;
+  top: 6668px;
+  left: 850px;
+  font-weight: bold;
+  color: white;
+  position: absolute;
+  cursor: pointer;
+}
+
+.resorts {
+  position: absolute;
+  width: 111px;
+  height: 22px;
+  top: 6330px;
+  left: 98px;
+  transform: rotate(-90deg);
+  font-family: Fira Sans;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 8px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.3);
+  white-space: nowrap;
+}
+
+.auberge {
+  position: absolute;
+  width: 199px;
+  height: 72px;
+  top: 6240px;
+  left: 173px;
+  font-family: Fira Sans;
+  font-size: 40px;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  font-weight: bold;
+}
+
+.of-night {
+  position: absolute;
+  width: 189px;
+  height: 22px;
+  top: 6350px;
+  left: 395px;
+  transform: rotate(-90deg);
+  font-family: Fira Sans;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 8px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.3);
+  white-space: nowrap;
+}
+
+.night-sleep {
+  position: absolute;
+  width: 189px;
+  height: 36px;
+  top: 6245px;
+  left: 512px;
+  font-family: Fira Sans;
+  font-size: 34px;
+  line-height: 36px;
+  letter-spacing: 6px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.night-sleepN {
+  position: absolute;
+  width: 189px;
+  height: 36px;
+  top: 6245px;
+  left: 562px;
+  font-family: Fira Sans;
+  font-size: 34px;
+  line-height: 36px;
+  letter-spacing: 6px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.sleep-quest {
+  position: absolute;
+  width: 190px;
+  height: 22px;
+  top: 6355px;
+  left: 705px;
+  transform: rotate(-90deg);
+  font-family: Fira Sans;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 8px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.3);
+  white-space: nowrap;
+}
+
+.numbers-of-quests {
+  position: absolute;
+  font-family: Fira Sans;
+  font-size: 34px;
+  line-height: 36px;
+  letter-spacing: 6px;
+  text-align: left;
+  width: 194px;
+  height: 36px;
+  top: 6245px;
+  left: 823px;
+  color: rgba(255, 255, 255, 1);
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.numbers-of-questsQ {
+  position: absolute;
+  font-family: Fira Sans;
+  font-size: 34px;
+  line-height: 36px;
+  letter-spacing: 6px;
+  text-align: left;
+  width: 194px;
+  height: 36px;
+  top: 6245px;
+  left: 873px;
+  color: rgba(255, 255, 255, 1);
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.pricing-sleep {
+  position: absolute;
+  width: 122px;
+  height: 22px;
+  top: 6315px;
+  left: 1045px;
+  transform: rotate(-90deg);
+  font-family: Fira Sans;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 8px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.3);
+  white-space: nowrap;
+}
+
+.USD-sleep {
+  position: absolute;
+  width: 176px;
+  height: 42px;
+  top: 6243px;
+  left: 1122px;
+  font-family: Fira Sans;
+  font-size: 34px;
+  line-height: 36px;
+  letter-spacing: 6px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.per-night {
+  position: absolute;
+  width: 115px;
+  height: 36px;
+  top: 6287px;
+  left: 1250px;
+  font-family: Fira Sans;
+  font-size: 14px;
+  line-height: 36px;
+  letter-spacing: 5.25px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.3);
+  white-space: nowrap;
+}
+
+.pidsniznyk img {
+  width: 345.22px;
+  height: 264.58px;
+  top: 6650px;
+  left: 1283px;
+  position: absolute;
+}
+
+.minus {
+  cursor: pointer;
+  position: absolute;
+  background: rgba(74, 246, 205, 1);
+  width: 18px;
+  height: 4px;
+  top: 6330px;
+  left: 640px;
+}
+
+.plus {
+  cursor: pointer;
+  position: absolute;
+  background: rgba(74, 246, 205, 1);
+  width: 18px;
+  height: 4px;
+  top: 6330px;
+  left: 680px;
+}
+
+.pluS {
+  transform: rotate(90deg);
+  cursor: pointer;
+  position: absolute;
+  background: rgba(74, 246, 205, 1);
+  width: 18px;
+  height: 4px;
+  top: 6330px;
+  left: 680px;
+}
+
+.minus-1 {
+  cursor: pointer;
+  position: absolute;
+  background: rgba(74, 246, 205, 1);
+  width: 18px;
+  height: 4px;
+  top: 6330px;
+  left: 955px;
+}
+
+.plus-1 {
+  cursor: pointer;
+  position: absolute;
+  background: rgba(74, 246, 205, 1);
+  width: 18px;
+  height: 4px;
+  top: 6330px;
+  left: 995px;
+}
+
+.pluS-1 {
+  transform: rotate(90deg);
+  cursor: pointer;
+  position: absolute;
+  background: rgba(74, 246, 205, 1);
+  width: 18px;
+  height: 4px;
+  top: 6330px;
+  left: 995px;
+}

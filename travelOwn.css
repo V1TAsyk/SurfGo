@@ -1,0 +1,372 @@
+.upper-travel {
+  width: 80px;
+  height: 1px;
+  top: 3420px;
+  left: 450px;
+  opacity: 0px;
+  position: absolute;
+  background-color: aquamarine;
+}
+
+.travel-text {
+  font-family: Fira Sans;
+  font-size: 80px;
+  line-height: 86px;
+  width: 463px;
+  height: 86px;
+  top: 3423px;
+  left: 233px;
+  position: absolute;
+  color: white;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.travel-background {
+  opacity: 2%;
+  font-family: Fira Sans;
+  font-size: 190px;
+  line-height: 156px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  width: 467px;
+  height: 156px;
+  top: 3423px;
+  left: -49px;
+}
+
+.svg-button-travelyyy img {
+  position: absolute;
+  width: 68px;
+  height: 20px;
+  top: 3715px;
+  left: 1354px;
+  opacity: 0.4;
+  cursor: pointer;
+}
+
+.travelOwn:has(.svg-button-travelyyy img:active) {
+  animation: darkenLighten 5s ease-in-out alternate-reverse;
+  transition: 0.8s;
+  opacity: 0.8;
+}
+
+.rectangle-travel {
+  position: absolute;
+  margin: 0;
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 0;
+  border: none;
+  width: 80px;
+  height: 1px;
+  top: 3570px;
+  left: 1200px;
+}
+
+.location-travel {
+  color: rgba(255, 255, 255, 0.3);
+  width: 104px;
+  height: 32px;
+  top: 3535px;
+  left: 1310px;
+  font-family: Fira Sans;
+  font-size: 22px;
+  line-height: 32px;
+  letter-spacing: 7.333333969116211px;
+  text-align: right;
+  position: absolute;
+}
+
+.california-travel {
+  position: absolute;
+  color: white;
+  width: 475px;
+  height: 86px;
+  top: 3568px;
+  left: 893px;
+  font-family: Fira Sans;
+  font-size: 40px;
+  line-height: 86px;
+  text-align: right;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.travel-img-havana img {
+  position: absolute;
+  width: 1115.29px;
+  height: 780.3px;
+  top: 3460px;
+  left: -3px;
+  gap: 0px;
+  opacity: 0.9px;
+}
+
+.location-travelY {
+  color: rgba(255, 255, 255, 0.3);
+  width: 104px;
+  height: 32px;
+  top: 4135px;
+  left: 133px;
+  font-family: Fira Sans;
+  font-size: 22px;
+  line-height: 32px;
+  letter-spacing: 7.333333969116211px;
+  text-align: right;
+  position: absolute;
+}
+
+.rectangle-travelY {
+  position: absolute;
+  margin: 0;
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 0;
+  border: none;
+  width: 80px;
+  height: 1px;
+  top: 4170px;
+  left: 290px;
+}
+
+.california-travelY {
+  position: absolute;
+  color: white;
+  width: 475px;
+  height: 86px;
+  top: 4163px;
+  left: 30px;
+  font-family: Fira Sans;
+  font-size: 40px;
+  line-height: 86px;
+  text-align: right;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.airline-virginyA img {
+  width: 750px;
+  height: 250px;
+  top: 4000px;
+  left: 800px;
+  gap: 0px;
+  opacity: 0px;
+  transform: rotate(10deg);
+  position: absolute;
+}
+
+.destination {
+  color: rgba(255, 255, 255, 0.3);
+  width: 195px;
+  height: 22px;
+  top: 4513px;
+  left: 37px;
+  transform: rotate(-90deg);
+  font-family: Fira Sans;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 8px;
+  text-align: right;
+  position: absolute;
+}
+
+.distance {
+  color: rgba(255, 255, 255, 0.3);
+  width: 195px;
+  height: 22px;
+  top: 4500px;
+  left: 430px;
+  transform: rotate(-90deg);
+  font-family: Fira Sans;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 8px;
+  text-align: right;
+  position: absolute;
+}
+
+.travel-time {
+  color: rgba(255, 255, 255, 0.3);
+  width: 195px;
+  height: 22px;
+  top: 4513px;
+  left: 729px;
+  transform: rotate(-90deg);
+  font-family: Fira Sans;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 8px;
+  text-align: right;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.pricing {
+  color: rgba(255, 255, 255, 0.3);
+  width: 195px;
+  height: 22px;
+  top: 4500px;
+  left: 1080px;
+  transform: rotate(-90deg);
+  font-family: Fira Sans;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 8px;
+  text-align: right;
+  position: absolute;
+}
+
+.queensland {
+  position: absolute;
+  color: rgba(255, 255, 255, 1);
+  width: 475px;
+  height: 86px;
+  top: 4390px;
+  left: 170px;
+  font-family: Fira Sans;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.miles {
+  position: absolute;
+  color: rgba(255, 255, 255, 1);
+  width: 475px;
+  height: 86px;
+  top: 4390px;
+  left: 560px;
+  font-family: Fira Sans;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.hours-minutes {
+  position: absolute;
+  color: rgba(255, 255, 255, 1);
+  width: 475px;
+  height: 86px;
+  top: 4390px;
+  left: 860px;
+  font-family: Fira Sans;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.USD {
+  position: absolute;
+  color: rgba(255, 255, 255, 1);
+  width: 475px;
+  height: 86px;
+  top: 4390px;
+  left: 1210px;
+  font-family: Fira Sans;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.trip {
+  color: rgba(255, 255, 255, 0.3);
+  width: 195px;
+  height: 22px;
+  top: 4460px;
+  left: 1260px;
+  font-family: Fira Sans;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 8px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.cocktail img {
+  position: absolute;
+  width: 564px;
+  height: 564px;
+  top: 4746px;
+  left: 1215px;
+}
+
+.book-flight-p {
+  font-weight: bold;
+  color: white;
+  width: 326px;
+  height: 80px;
+  top: 4672px;
+  left: 515px;
+  position: absolute;
+  font-family: Fira Sans;
+  font-size: 40px;
+  line-height: 36px;
+  text-align: right;
+  cursor: pointer;
+}
+
+.book-flight {
+  position: absolute;
+  background-color: aquamarine;
+  width: 201px;
+  height: 80px;
+  top: 4690px;
+  left: 681px;
+  cursor: pointer;
+}
+
+.travel-svg {
+  width: 24.15px;
+  height: 20.15px;
+  top: 4720px;
+  left: 850px;
+  font-weight: bold;
+  color: white;
+  position: absolute;
+  cursor: pointer;
+}
+
+.zori .zoria-travel1 {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 4235px;
+  left: 520px;
+  transition: all 0.5s;
+}
+
+.zori .zoria-travel2 {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 4235px;
+  left: 550px;
+  transition: all 0.5s;
+}
+
+.zori .zoria-travel3 {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 4235px;
+  left: 580px;
+  transition: all 0.5s;
+}
+
+.zori .zoria-travel4 {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 4235px;
+  left: 610px;
+  transition: all 0.5s;
+}
+
+.zori .zoria-travel5 {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 4235px;
+  left: 640px;
+  transition: all 0.5s;
+}
+
+.zori img:hover {
+  transform: translateX(20px);
+}

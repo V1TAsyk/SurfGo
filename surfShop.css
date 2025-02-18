@@ -1,0 +1,494 @@
+.upper-shop {
+  position: absolute;
+  width: 80px;
+  height: 1px;
+  top: 7200px;
+  left: 368px;
+  position: absolute;
+  background-color: aquamarine;
+  font-weight: bold;
+}
+
+.shop-text {
+  position: absolute;
+  font-family: Fira Sans;
+  font-size: 80px;
+  line-height: 86px;
+  width: 463px;
+  height: 86px;
+  top: 7200px;
+  left: 233px;
+  color: white;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.shop-background {
+  opacity: 2%;
+  font-family: Fira Sans;
+  font-size: 190px;
+  line-height: 156px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  width: 467px;
+  height: 156px;
+  top: 7200px;
+  left: -49px;
+  position: absolute;
+}
+
+.svg-button-Shopy img {
+  position: absolute;
+  width: 68px;
+  height: 20px;
+  top: 7400px;
+  left: 1385px;
+  opacity: 0.4;
+  cursor: pointer;
+}
+
+.surf-shop:has(.svg-button-Shopy img:active) {
+  animation: darkenLighten 5s ease-in-out alternate-reverse;
+  transition: 0.8s;
+  opacity: 0.8;
+}
+
+.exelent-surf-shop img:hover {
+  transform: translateX(20px);
+}
+
+.shop-1 {
+  top: 7690px;
+  left: 130px;
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  transition: all 0.5s;
+}
+
+.shop-2 {
+  top: 7690px;
+  left: 175px;
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  transition: all 0.5s;
+}
+
+.shop-3 {
+  top: 7690px;
+  left: 220px;
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  transition: all 0.5s;
+}
+
+.shop-4 {
+  top: 7690px;
+  left: 265px;
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  transition: all 0.5s;
+}
+
+.shop-5 {
+  top: 7690px;
+  left: 310px;
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  transition: all 0.3s;
+}
+
+.rectangle-shoopY {
+  width: 80px;
+  height: 1px;
+  top: 7537px;
+  left: 250px;
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.3);
+  z-index: 5;
+}
+
+.location-shoopY {
+  width: 116px;
+  height: 32px;
+  top: 7500px;
+  left: 133px;
+  color: rgba(255, 255, 255, 0.3);
+  position: absolute;
+  z-index: 5;
+  font-family: Fira Sans;
+  font-size: 22px;
+  line-height: 32px;
+  letter-spacing: 7.333333969116211px;
+  text-align: left;
+}
+
+.california-shoopY {
+  position: absolute;
+  color: white;
+  width: 475px;
+  height: 86px;
+  top: 7530px;
+  left: 133px;
+  font-family: Fira Sans;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.chwylka {
+  width: 1054.72px;
+  height: 590.02px;
+  top: 7250px;
+  left: 388px;
+  opacity: 0.85px;
+  position: absolute;
+}
+
+.dolars {
+  position: absolute;
+  color: rgba(255, 255, 255, 1);
+  font-weight: bold;
+  top: 7700px;
+  left: 133px;
+  font-size: 33px;
+}
+
+.cents {
+  position: absolute;
+  color: rgba(255, 255, 255, 1);
+  font-weight: bold;
+  top: 7720px;
+  left: 200px;
+  font-size: 15px;
+}
+
+.book-flight-shop {
+  position: absolute;
+  background-color: aquamarine;
+  width: 112px;
+  height: 80px;
+  top: 7820px;
+  left: 270px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.book-flight-shoP {
+  font-weight: bold;
+  color: white;
+  width: 326px;
+  height: 80px;
+  top: 7800px;
+  left: -5px;
+  position: absolute;
+  font-family: Fira Sans;
+  font-size: 40px;
+  line-height: 36px;
+  text-align: right;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.shop-svg {
+  width: 24.15px;
+  height: 20.15px;
+  top: 7850px;
+  left: 335px;
+  font-weight: bold;
+  color: white;
+  position: absolute;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.bordyyy img {
+  z-index: 3;
+  position: absolute;
+  width: 228px;
+  height: 695px;
+  top: 7358px;
+  left: 652px;
+}
+
+.extras {
+  position: absolute;
+  color: white;
+  top: 7720px;
+  left: 1070px;
+  font-family: Fira Sans;
+  font-size: 28px;
+  line-height: 40px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.sex-wax img {
+  position: absolute;
+  width: 106px;
+  height: 108px;
+  top: 7825px;
+  left: 1065px;
+}
+
+.usmiszka img {
+  position: absolute;
+  width: 120px;
+  height: 81px;
+  top: 7841px;
+  left: 1257px;
+}
+
+.sex-wax-text {
+  position: absolute;
+  font-family: Fira Sans;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 8px;
+  text-align: right;
+  color: white;
+  font-weight: bold;
+  opacity: 0.4;
+  top: 7945px;
+  left: 1055px;
+}
+
+.pura-vida-text {
+  position: absolute;
+  font-family: Fira Sans;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 8px;
+  text-align: right;
+  color: white;
+  font-weight: bold;
+  opacity: 0.4;
+  top: 7945px;
+  left: 1243px;
+}
+
+.kolo {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  border-radius: 50%;
+  top: 7550px;
+  left: 830px;
+  background-color: whitesmoke;
+  z-index: 5;
+}
+
+.kolo-2 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  border-radius: 50%;
+  top: 7680px;
+  left: 650px;
+  background-color: whitesmoke;
+  z-index: 5;
+}
+
+.kolo-3 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  border-radius: 50%;
+  top: 7970px;
+  left: 706px;
+  background-color: whitesmoke;
+  z-index: 5;
+}
+
+#plusyk {
+  position: absolute;
+  background-color: aquamarine;
+  z-index: 10;
+  left: 8px;
+  top: 4px;
+  width: 2.35px;
+  height: 11.76px;
+}
+
+#plusYk {
+  position: absolute;
+  background-color: aquamarine;
+  z-index: 10;
+  left: 6px;
+  top: 2px;
+  left: 3px;
+  top: 8px;
+  transform: rotate(180deg);
+  width: 11.76px;
+  height: 2.35px;
+}
+
+.kolo:hover ~ #rectangle-surfYYY {
+  opacity: 1;
+}
+.kolo-2:hover ~ #rectangle-surfYYY {
+  opacity: 1;
+}
+.kolo-3:hover ~ #rectangle-surfYYY {
+  opacity: 1;
+}
+#plusyk:hover ~ #rectangle-surfYYY {
+  opacity: 1;
+}
+#plusYk:hover ~ #rectangle-surfYYY {
+  opacity: 1;
+}
+
+#rectangle-surfYYY {
+  width: 80px;
+  height: 2px;
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.3);
+  z-index: 5;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.rs-1 {
+  top: 6px;
+  left: 24px;
+}
+
+.rs-1 p {
+  position: absolute;
+  width: 255px;
+  height: 48px;
+  font-family: Fira Sans;
+  font-size: 24px;
+  line-height: 24px;
+  text-align: left;
+  color: white;
+  font-weight: bold;
+  top: -47px;
+  left: 93px;
+  white-space: nowrap;
+}
+
+.rs-2 {
+  top: 34px;
+  left: -94px;
+  transform: rotate(-30deg);
+}
+
+.rs-2 p {
+  position: absolute;
+  width: 255px;
+  height: 48px;
+  font-family: Fira Sans;
+  font-size: 24px;
+  line-height: 24px;
+  text-align: left;
+  color: white;
+  font-weight: bold;
+  white-space: nowrap;
+  transform: rotate(30deg);
+  left: -300px;
+  top: -100px;
+}
+
+.rs-3 {
+  top: 8px;
+  left: -94px;
+}
+
+.rs-3 p {
+  position: absolute;
+  width: 255px;
+  height: 48px;
+  font-family: Fira Sans;
+  font-size: 24px;
+  line-height: 24px;
+  text-align: left;
+  color: white;
+  font-weight: bold;
+  white-space: nowrap;
+  left: -360px;
+  top: -47px;
+}
+
+.pura-vida-pricyyy {
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  width: 54px;
+  height: 40px;
+  top: 7965px;
+  left: 1295px;
+  font-family: Fira Sans;
+  font-size: 18px;
+  line-height: 40px;
+  text-align: center;
+}
+
+.sex-wax-pricyyy {
+  color: white;
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  width: 54px;
+  height: 40px;
+  top: 7965px;
+  left: 1085px;
+  font-family: Fira Sans;
+  font-size: 18px;
+  line-height: 40px;
+  text-align: center;
+}
+
+.co-Surf {
+  position: absolute;
+  top: 8540px;
+  left: 650px;
+  font-weight: bold;
+  color: rgb(168, 168, 168);
+  font-family: Fira Sans;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 1.0499999523162842px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.book-flight-fff {
+  font-weight: bold;
+  color: white;
+  width: 326px;
+  height: 80px;
+  top: 8400px;
+  left: 530px;
+  position: absolute;
+  font-family: Fira Sans;
+  font-size: 40px;
+  line-height: 36px;
+  text-align: right;
+  cursor: pointer;
+}
+
+.book-flight-FFF {
+  position: absolute;
+  background-color: aquamarine;
+  width: 201px;
+  height: 80px;
+  top: 8420px;
+  left: 735px;
+  cursor: pointer;
+}
+
+.footer-svg {
+  width: 24.15px;
+  height: 20.15px;
+  top: 8452px;
+  left: 875px;
+  font-weight: bold;
+  color: white;
+  position: absolute;
+  cursor: pointer;
+}
